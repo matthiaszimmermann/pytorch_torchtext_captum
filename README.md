@@ -7,6 +7,7 @@ some additional installations/changes necessary as noted in IMDB_TorchText_Inter
 
 ## component versions
 * pytorch 1.4.0
+* captum 0.2.0
 * torchtext 0.5.0
 * spacy 2.1.8 (for sentiment classification)
 * sentencepiece (pip installation only)
