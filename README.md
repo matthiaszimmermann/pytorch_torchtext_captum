@@ -1,6 +1,8 @@
 # pytorch torchtext captum
 sentiment classification with text model interpretation
 
+tutorial source [captum imdb tutorial](https://captum.ai/tutorials/IMDB_TorchText_Interpret)
+
 ## basic environment
 captum tutorial run through on macbook pro with anaconda installed.
 some additional installations/changes necessary as noted in IMDB_TorchText_Interpret.ipynb
