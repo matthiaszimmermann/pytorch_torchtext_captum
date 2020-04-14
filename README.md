@@ -13,4 +13,11 @@ some additional installations/changes necessary as noted in IMDB_TorchText_Inter
 * sentencepiece (pip installation only)
 
 ## goal of experiment
-get to the graphic with colored words to indicate which words did contribute how much to movie review sentiment classification. 
+get to the graphic with colored words to indicate which words did contribute how much to movie review sentiment classification.
+
+## steps
+* open IMDB_TorchText_Interpret.ipynb
+* run through steps
+* get to output as shown below
+
+![word level contributions](https://github.com/matthiaszimmermann/pytorch_torchtext_captum/blob/master/img/sentiment_analysis.png)
