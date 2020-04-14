@@ -6,11 +6,12 @@ captum tutorial run through on macbook pro with anaconda installed.
 some additional installations/changes necessary as noted in IMDB_TorchText_Interpret.ipynb
 
 ## component versions
-* pytorch 1.4.0
-* captum 0.2.0
-* torchtext 0.5.0
-* spacy 2.1.8 (for sentiment classification)
-* sentencepiece (pip installation only)
+* anaconda [anaconda.com](https://www.anaconda.com/distribution/) (python 3.7)
+* pytorch 1.4.0 [pytorch.org](https://pytorch.org/)
+* captum 0.2.0 [captum.ai](https://captum.ai/)
+* torchtext 0.5.0 [torchtext](https://pytorch.org/text/)
+* spacy 2.1.8 ([spacy.io](https://spacy.io/) for sentiment classification)
+* sentencepiece ([sentencepiece](https://pypi.org/project/sentencepiece/) for sentiment classification, pip installation only)
 
 ## goal of experiment
 get to the graphic with colored words to indicate which words did contribute how much to movie review sentiment classification.
